@@ -1,2 +1,3 @@
-# ACLibImportWizard-PackageTest
-Only for test packages (will be deleted)
+# ACLib Import Wizard: Package Test
+Only for testing packages (will be deleted)
+
