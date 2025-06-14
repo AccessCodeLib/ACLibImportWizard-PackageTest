@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------
+ Package: VBA-MicrosoftGraph
+---------------------------------------------------------------------------------------
+<codelib>
+  <package>VBA-MicrosoftGraph</package>
+  <description>VBA-MicrosoftGraph makes working with the Microsoft Graph WEB API from VBA easier. (https://github.com/mbarnesatbbs/VBA-MicrosoftGraph)</description>
+  <use>%GITHUB%:josef-poetzl/VBA-MicrosoftGraph@master/VBA-MicrosoftGraph.package</use>
+</codelib>
+---------------------------------------------------------------------------------------
