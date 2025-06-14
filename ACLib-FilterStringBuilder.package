@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------
+ Package: ACLib FilterstringBuilder
+---------------------------------------------------------------------------------------
+<codelib>
+  <package>VBA-JSON</package>
+  <description>Create SQL criteria (filter) expression</description>
+  <use>%GITHUB%:AccessCodeLib/AccessCodeLib@master/data/FilterStringBuilder.cls</use>
+</codelib>
+---------------------------------------------------------------------------------------
