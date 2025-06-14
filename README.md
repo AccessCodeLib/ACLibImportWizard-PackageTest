@@ -1,5 +1,5 @@
 # ACLib Import Wizard: Package Test
-Only for testing packages (repository will be deleted)
+Only for testing packages (repository will be deleted or restructured)
 
 These packages can be used to import code modules, Access forms or reports with the [ACLib Import Wizard](https://github.com/AccessCodeLib/ACLibImportWizard).
 
