@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------
+ Package: VBA-JSON
+---------------------------------------------------------------------------------------
+<codelib>
+  <package>VBA-JSON</package>
+  <description>JSON conversion and parsing for VBA (https://github.com/VBA-tools/VBA-JSON)</description>
+  <use>%GITHUB%:VBA-tools/VBA-JSON@master/JsonConverter.bas</use>
+</codelib>
+---------------------------------------------------------------------------------------
