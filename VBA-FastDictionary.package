@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------
+ Package: VBA-FastDictionary
+---------------------------------------------------------------------------------------
+<codelib>
+  <package>VBA-FastDictionary</package>
+  <description>Fast Native Dictionary for VBA. Compatible with Windows and Mac. Does not require any DLL references or any kind of external libraries. (https://github.com/cristianbuse/VBA-FastDictionary)</description>
+  <use>%GITHUB%:cristianbuse/VBA-FastDictionary@master/src/Dictionary.cls</use>
+  <test>%GITHUB%:cristianbuse/VBA-FastDictionary@master/src/test/TestDictionary.bas</test>
+</codelib>
+---------------------------------------------------------------------------------------
