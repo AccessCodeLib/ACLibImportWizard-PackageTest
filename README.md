@@ -11,5 +11,6 @@ These packages can be used to import code modules, Access forms or reports with 
   <use>%GITHUB%:{owner}/{repository name}@{branch name}/{relative path and file name}</use>
   <ref><name>{lib name}</name><major>{major version no}</major><minor>{minor version no}</minor><guid>{guid}</guid></ref>
   <test>{path to test file}</test>
+  <test>{path to example file}</test>
 </codelib>
 ```
