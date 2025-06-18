@@ -1,0 +1,9 @@
+'---------------------------------------------------------------------------------------
+' Package: Access Add-in Template
+'---------------------------------------------------------------------------------------
+'<codelib>
+'  <package>Access Add-in Template</package>
+'  <description>...</description>
+'  <use>%GITHUB%:AccessCodeLib/AccessCodeLib@master/_packages/Access-Add-In-Template.package</use>
+'</codelib>
+'---------------------------------------------------------------------------------------
